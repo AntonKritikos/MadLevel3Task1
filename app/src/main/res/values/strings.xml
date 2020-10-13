@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MadLevel3Task1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">START</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_first_fragment">Welcome to the Games Rating app!</string>
+    <string name="subtitle_first_fragment">Click Start to start rating.</string>
+
+
+    <string name="title_rating_fragment">Rate the following game from 1 to 5 stars!</string>
+    <string name="subtitle_rating_fragment">Shadow of the tomb raider</string>
+    <string name="button_rating_fragment">To summary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start_over">Start over</string>
+    <string name="summary">You rated %s with %.1f stars! Thanks!</string>
+</resources>
